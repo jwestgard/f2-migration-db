@@ -20,3 +20,4 @@ sqlite> .import --csv collections.csv collections
 sqlite> .import --csv items.csv items
 sqlite> .import --csv componenets.csv components
 ```
+Note: The collections file included in this repository was not created by the data-prep.py script, but was exported from Solr directly to get collection pids and titles.
